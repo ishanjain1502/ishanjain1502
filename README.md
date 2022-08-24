@@ -20,3 +20,6 @@ I am a Full-Stack Engineer who is exploring building products while helping othe
 [![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanjain1502)](https://github.com/ishanjain1502/github-readme-stats)
 
 ### You can contact me here
+
+[<img align="left" alt="ishanjain1502 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="hey-ishan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

@@ -12,18 +12,23 @@ I am a Full-Stack Engineer who is exploring building products while helping othe
  👯 I’m looking to collaborate on a Full-Stack Project.
  
  💬 Ask me about Tech-related stuff or Football Club Barcelona .
+ <br/>
+<hr/>
 
-### Tech & Tools Preference
 
 
 
 [![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanjain1502)](https://github.com/ishanjain1502/github-readme-stats)
+<br/>
+<hr/>
 
-### You can contact me here
+### Wanna find me on internet 🌏
 
 [<img align="left" alt="ishanjain1502 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hey-ishan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<br/>
+<hr/>
+Check the Repositories and don't forget to give a star. 😆
 
 
 [twitter]: https://twitter.com/ishanjain1502

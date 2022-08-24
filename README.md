@@ -23,3 +23,8 @@ I am a Full-Stack Engineer who is exploring building products while helping othe
 
 [<img align="left" alt="ishanjain1502 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hey-ishan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[twitter]: https://twitter.com/ishanjain1502
+[linkedin]: https://www.linkedin.com/in/hey-ishan/

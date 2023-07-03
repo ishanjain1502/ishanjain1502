@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Grayswipe and few other personal projects](https://play.google.com/store/apps/developer?id=Grayswipe)
 
-- 🌱 I’m currently learning **Django, Competitve Programming and trying to improve my JavaScript skills** 
+- 🌱 I’m currently learning **GoLang, Competitive Programming and trying to improve my JavaScript skills** 
 
 - 👯 I’m looking to collaborate on **some projects**
 

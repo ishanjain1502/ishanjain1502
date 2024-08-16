@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ishanjain1502@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nC13RGGvMSy7bUUfRaA50qL2mRwG3cbw/view?usp=sharing](https://drive.google.com/file/d/1nC13RGGvMSy7bUUfRaA50qL2mRwG3cbw/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nC13RGGvMSy7bUUfRaA50qL2mRwG3cbw/view?usp=sharing](https://drive.google.com/file/d/18yRmeY98ZFpJgkC_t0L29EmsE1HcLb5q/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

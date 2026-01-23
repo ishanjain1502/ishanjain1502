@@ -50,7 +50,7 @@ Solved real performance problems in a production application with direct SEO and
 ---
 
 ### 🛠️ Tools I reach for
-**Languages:** TypeScript, JavaScript, Go, Rust, Python  
+**Languages:** TypeScript, JavaScript, Rust, Python  
 **Systems & Infra:** Docker, AWS, GraphQL, WebAssembly  
 **Data:** PostgreSQL, MongoDB  
 **Product & UI:** React, Next.js  

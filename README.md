@@ -64,6 +64,8 @@ Solved real performance problems in a production application with direct SEO and
 - LinkedIn: https://linkedin.com/in/hey-ishan
 
 
+### Wanna hire me, checkout my resume
+[Resume Link](https://drive.google.com/file/d/18yRmeY98ZFpJgkC_t0L29EmsE1HcLb5q/view?usp=sharing)
 
 
 ---
